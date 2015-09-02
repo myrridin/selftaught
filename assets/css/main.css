@@ -141,5 +141,9 @@ a:after {
   .container p {
     padding: 0px 15px;
   }
+
+  #github_link {
+    display: none;
+  }
 }
 
