@@ -43,7 +43,7 @@ p {
 
 /* Links */
 a {
-    color: #f85c37;
+    color: #1B454F;
     word-wrap: break-word;
 
     -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -55,7 +55,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #7b7b7b;
+    color: #EEE;
     text-decoration: none;
     outline: 0;
 }
@@ -81,17 +81,17 @@ a:after {
 	font-size: 5.5em;
 	font-weight: 700;
 	letter-spacing: 3px;
-	color: #74cfae;
+	color: #B2D0C5;
 }
 
 #hello h2 {
-	color: #c0c0c0;
+	color: #FFF;
 	font-weight: 400;
 }
 
 /* Green */
 .content-band {
-	background-color: #74cfae;
+	background-color: #86B5A4;
 	padding-top: 50px;
 	margin-bottom: 0px;
 }
